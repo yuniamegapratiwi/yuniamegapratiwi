@@ -40,7 +40,7 @@ li {
 }
 
 .contents {
-  height: 1000px;
+  height: 1500px;
   margin-top: 50px;
 }
 
@@ -53,7 +53,7 @@ li {
 
 .contents-item {
   float: left;
-  margin-right: 30px;
+  margin-right: 10px;
 }
 
 .contents-item p {
