@@ -88,14 +88,7 @@ input, textarea {
   color: #fff;
 }
 
-.footer {
-  background-color: #2f5167;
-  color: #fff;
-  height: 60px;
-  padding: 40px;
-  text-align: center;
-  margin: 10px;
-}
+.footer {text-align: center; margin: 10px; color: #fff; background: #2f5167; height : 60px}
 
 .footer p{padding-top: 25px;}
 
