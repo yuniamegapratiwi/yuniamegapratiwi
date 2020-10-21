@@ -18,6 +18,10 @@ li {
   padding: 20px 40px;
 }
 
+.navbar {
+  float: right;
+}
+
 .header-list li {
   float: left;
   padding: 33px 20px;
