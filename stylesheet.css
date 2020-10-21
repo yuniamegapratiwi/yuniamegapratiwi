@@ -58,6 +58,7 @@ li {
 .contents-item {
   float: left;
   margin-right: 10px;
+  text-align: center;
 }
 
 .contents-item p {
