@@ -18,15 +18,15 @@ li {
   padding: 20px 40px;
 }
 
-.navbar {float: right;}
+.header-list {float: right;}
 
-.navbar ul{list-style: none;}
+.header-list ul{list-style: none;}
 
-.navbar ul li{display:inline; margin: 10px;}
+.header-list ul li{display:inline; margin: 10px;}
 
-.navbar ul li a{text-decoration: none; color: #fff;}
+.header-list ul li a{text-decoration: none; color: #fff;}
 
-.navbar ul li a:hover {border-bottom: 2px solid #fff;}
+.header-list ul li a:hover {border-bottom: 2px solid #fff;}
 
 .main {
   padding: 50px;
